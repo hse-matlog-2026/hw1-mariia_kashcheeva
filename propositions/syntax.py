@@ -123,6 +123,7 @@ class Formula:
     def __eq__(self, other: object) -> bool:
         """Compares the current formula with the given one.
 
+
         Parameters:
             other: object to compare to.
 
